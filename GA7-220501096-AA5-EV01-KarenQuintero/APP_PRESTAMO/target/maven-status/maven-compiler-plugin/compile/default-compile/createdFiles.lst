@@ -1,0 +1,12 @@
+servlets\Svbuscar_usuario.class
+servlets\Svregistrar_usuario.class
+servlets\Svinicio_sesion.class
+conexion\conexionDB.class
+servlets\Svcerrar_sesion.class
+com\mycompany\app_prestamo\JakartaRestConfiguration.class
+servlets\Sveliminar_usuario.class
+servlets\Svobtener_usuario.class
+servlets\Svactualizar_usuario.class
+servlets\Svlistar_usuarios.class
+com\mycompany\app_prestamo\resources\JakartaEE10Resource.class
+servlets\Svperfil_usuario.class
