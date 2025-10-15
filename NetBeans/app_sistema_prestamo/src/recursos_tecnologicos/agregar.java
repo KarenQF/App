@@ -17,7 +17,7 @@ public class agregar {
         conexion con = new conexion();
         
         // Datos a Ingresar:
-        String no_inventario = "539065452";
+        String no_inventario = "539065453";
         String descripcion = "Portatil";
         // Ojo: septiembre tiene 30 días, "2025-09-31" es inválida
         // AAAA - MM - DD
